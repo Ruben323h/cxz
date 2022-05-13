@@ -624,7 +624,7 @@ def main():
 
     bot = ObigramClient(bot_token)
     bot.onMessage(onmessage)
-    #bot.sendMessage(-1001751363598,'🚨 ♨️MoodleUpload1-Bot♨️ Iniciado 🚨\n             @moodleupload1_bot')
+    #bot.sendMessage(-637390403,'🚨 ♨️MoodleUpload1-Bot♨️ Iniciado 🚨\n             @moodleupload1_bot')
     bot.run()
 
 if __name__ == '__main__':
